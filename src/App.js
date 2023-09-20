@@ -1,11 +1,10 @@
 import './App.css';
-import Task from './Task/Main'
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+import Project3 from "./Project 3/Main"
 function App() {
   return (
     <div >
-     <Task/>
+     <Project3/>
     </div>
   );
 }
